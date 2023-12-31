@@ -1,2 +1,2 @@
 # mindCatalyst-project
-website contain motivational content.
+motivational website
